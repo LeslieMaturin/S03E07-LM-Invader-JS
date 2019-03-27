@@ -1,0 +1,49 @@
+.select-model {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.select-model .menu-item {
+    padding: .6em;
+    margin: .3em;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.ardoise {
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    width: 400px;
+    height: 400px;
+}
+
+.ligne {
+    height: 30px;
+    width: 100%;
+    display: flex
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.empty {
+    background-color: #fff;
+}
+.plain {
+    background-color: #333;
+}
+.light {
+    background-color: #666;
+}
+
+.highlight {
+    background-color: #aaa;
+}
